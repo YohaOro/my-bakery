@@ -13,16 +13,18 @@
     </title>
   </head>
   <body>
-    
+
     <nav>
         @include('components.nav')
     </nav>
-    <footer>
-        @include('components.footer')
-    </footer>
+
     <main>
         @yield('content')
     </main>
+
+    <footer>
+        @include('components.footer')
+    </footer>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
