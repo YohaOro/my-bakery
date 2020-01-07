@@ -1,0 +1,18 @@
+
+.colorG {
+    background-color: rgb(235, 152, 78);
+}
+
+nav a {
+    color:rgba(203, 67, 53);
+}
+
+nav a:hover {
+    color:rgb(203, 67, 53,0.5);
+}
+
+nav .dropdown-item {
+    color:rgba(203, 67, 53);
+}
+
+
